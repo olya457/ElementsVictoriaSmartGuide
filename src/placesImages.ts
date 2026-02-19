@@ -1,0 +1,36 @@
+import type { ImageSourcePropType } from 'react-native';
+
+export const placeImages: Record<string, ImageSourcePropType> = {
+  'beacon-hill-park': require('./media/beacon_hill_park.png'),
+  'dallas-road-waterfront': require('./media/dallas_road_waterfront.png'),
+  'butchart-gardens': require('./media/butchart_gardens.png'),
+  'goldstream-park': require('./media/goldstream_provincial_park.png'),
+  'clover-point': require('./media/clover_point.png'),
+  'mount-tolmie': require('./media/mount_tolmie.png'),
+  'ogden-point-breakwater': require('./media/ogden_point_breakwater.png'),
+  'willows-beach': require('./media/willows_beach.png'),
+  'fishermans-wharf-park': require('./media/fishermans_wharf.png'),
+  'island-view-beach': require('./media/island_view_beach.png'),
+
+  'bc-parliament': require('./media/bc_parliament_buildings.png'),
+  'royal-bc-museum': require('./media/royal_bc_museum.png'),
+  'craigdarroch-castle': require('./media/craigdarroch_castle.png'),
+  'chinatown-fan-tan': require('./media/chinatown_fan_tan_alley.png'),
+  'emily-carr-house': require('./media/emily_carr_house.png'),
+  'christ-church-cathedral': require('./media/christ_church_cathedral.png'),
+  'government-house': require('./media/government_house.png'),
+  'maritime-museum': require('./media/maritime_museum_bc.png'),
+  'ross-bay-cemetery': require('./media/ross_bay_cemetery.png'),
+  'bastion-square': require('./media/bastion_square.png'),
+
+  'red-fish-blue-fish': require('./media/red_fish_blue_fish.png'),
+  'pagliaccis': require('./media/pagliaccis.png'),
+  'victoria-public-market': require('./media/victoria_public_market.png'),
+  'fishermans-wharf-kiosks': require('./media/fishermans_wharf_kiosks.png'),
+  'phillips-brewing': require('./media/phillips_brewing.png'),
+  'nourish-kitchen-cafe': require('./media/nourish_kitchen_cafe.png'),
+  '10-acres-bistro': require('./media/10_acres_bistro.png'),
+  'bard-banker': require('./media/bard_and_banker.png'),
+  'chocolats-favoris': require('./media/chocolats_favoris.png'),
+  'il-covo-trattoria': require('./media/il_covo_trattoria.png'),
+};

@@ -1,4 +1,4 @@
-package com.elementsvictoriasmartguide
+package com.elements.victoria.smart.guide
 
 import android.app.Application
 import com.facebook.react.PackageList

@@ -1,4 +1,4 @@
-package com.elementsvictoriasmartguide
+package com.elements.victoria.smart.guide
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
